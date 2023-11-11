@@ -1,0 +1,6 @@
+Button Click Listner Steps.
+
+1)implements View.OnClickListener in your activity/Fragment.
+2)Overide method i.e onClick(View view)
+3)Add listner to the widget
+4)OnOverRidden method implement onClick Logic based on the ID of the widget.
