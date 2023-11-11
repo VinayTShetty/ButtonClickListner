@@ -18,10 +18,9 @@
         android:layout_margin="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Activity A"
+        android:text="Activity B"
         android:layout_below="@+id/button_bt"
         android:textStyle="italic|bold"
-        android:textAlignment="center"
-        >
+        android:textAlignment="center">
     </TextView>
 </RelativeLayout>
