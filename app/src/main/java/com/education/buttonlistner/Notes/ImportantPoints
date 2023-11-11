@@ -1,0 +1,5 @@
+buttonClick method should have the following :
+
+Be public
+Return void
+Define a View as its only parameter (this will be the View that was clicked)
