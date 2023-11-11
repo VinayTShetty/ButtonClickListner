@@ -1,0 +1,4 @@
+Steps to Intialize Button OnClickListner
+1)Declare a Button in XML
+2)Initialize Button in the Activity with ID
+3)Implement  onClickListner Annonymous inner class
